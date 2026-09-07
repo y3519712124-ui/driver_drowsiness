@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+numpy
+pyttsx3
+Pillow
+vosk
+pyaudio
+noisereduce
+SpeechRecognition
+pygame

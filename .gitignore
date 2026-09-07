@@ -21,3 +21,23 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Only publish project source from this mixed local folder.
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/requirements.txt
+!/config.py
+!/main.py
+!/diagnose_mic.py
+!/diagnose_stt.py
+!/启动.bat
+!/src/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+*.log
